@@ -7,4 +7,5 @@
 7  http://client-urostream.club:8080/get.php?username=1040&password=1040&type=m3u_plus
 8  http://client-urostream.club:8080/get.php?username=antonio&password=antonio&type=m3u_plus
 9  http://client-urostream.club:8080/get.php?username=1&password=1&type=m3u_plus
-10  http://client-urostream.club:8080/get.php?username=1040&password=1040&type=m3u_plus
+10  http://62.210.28.33:8081/get.php?username=john&password=john&type=m3u_plus
+11  http://62.210.28.33:8081/get.php?username=nick&password=nick&type=m3u_plus
