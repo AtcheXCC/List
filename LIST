@@ -10,3 +10,5 @@
 10  http://62.210.28.33:8081/get.php?username=john&password=john&type=m3u_plus
 11  http://62.210.28.33:8081/get.php?username=nick&password=nick&type=m3u_plus
 12  http://tu22.frtsaopaulo.tech:80/get.php?username=Eliana1&password=Eliana2&type=m3u_plus
+13  http://fresat.live:8080/get.php?username=dayron&password=dayron&type=m3u_plus
+14  http://207.244.227.225:25461/get.php?username=hoteles&password=123456&type=m3u_plus
